@@ -4,4 +4,4 @@
 
 
 azure-functions
-git+https://$GITHUB_TOKEN@github.com/sid24desai/pycode.git@main
+git+https://$env.PAT_TOKEN@github.com/sid24desai/pycode.git@main
